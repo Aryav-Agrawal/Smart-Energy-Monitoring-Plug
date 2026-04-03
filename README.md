@@ -27,6 +27,11 @@ The system measures current using ACS712 sensor and calculates RMS current. Powe
 - OLED Display
 - Socket & Plug
 
+## 🧩 System Architecture
+
+AC Input → Sensor → ESP32 → WiFi → Blynk App → User Control
+![Circuit](circuit.png)
+
 ## 📊 Future Improvements
 - Overload protection
 - AI-based energy suggestions
