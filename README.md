@@ -40,5 +40,8 @@ AC Input → Sensor → ESP32 → WiFi → Blynk App → User Control
 ## 📸 Project Demo
 ![Project Image](iot.jpeg)
 
+## 🎯 Problem Solved
+Traditional plugs do not provide real-time monitoring or remote control, leading to energy wastage. This project provides a smart, affordable solution for energy tracking and automation.
+
 ## 👨‍💻 Author
 Aryav Agrawal
