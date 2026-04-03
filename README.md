@@ -33,7 +33,7 @@ The system measures current using ACS712 sensor and calculates RMS current. Powe
 - Custom mobile application
 
 ## 📸 Project Demo
-<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/a43b260d-61c0-4f44-93da-db7512e081d3" />
+![Project Image](iot.jpeg)
 
 ## 👨‍💻 Author
 Aryav Agrawal
